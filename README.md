@@ -1,5 +1,5 @@
 # End-to-End Market Basket Recommendation System
-# 🧠 Apriori Algorithm — Market Basket Analysis
+# 🧠 End-to-End Market Basket Recommendation System
 
 Algoritma **Apriori** digunakan untuk menemukan pola asosiasi antar item dalam data transaksi.  
 Proyek ini menerapkan Apriori untuk menganalisis kebiasaan pembelian pelanggan dan menghasilkan **aturan asosiasi** yang dapat dimanfaatkan untuk **rekomendasi produk**, **penataan display toko**, atau **strategi promosi** berbasis data.
