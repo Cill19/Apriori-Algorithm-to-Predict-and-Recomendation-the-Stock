@@ -1,4 +1,4 @@
-# Apriori-Algorithm-to-Predict-and-Recomendation-the-Stock
+# End-to-End Market Basket Recommendation System
 # 🧠 Apriori Algorithm — Market Basket Analysis
 
 Algoritma **Apriori** digunakan untuk menemukan pola asosiasi antar item dalam data transaksi.  
