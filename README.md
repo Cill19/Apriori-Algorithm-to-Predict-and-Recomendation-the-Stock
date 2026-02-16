@@ -96,12 +96,7 @@ Proyek ini dikembangkan untuk:
 
 ---
 
-## 💡 Author
 
-**👤 Nayang**  
-📍 Probolinggo, Indonesia  
-📧 Contact: [your.email@example.com]  
-✨ Passionate about data-driven systems & smart web development.
 
 ---
 
